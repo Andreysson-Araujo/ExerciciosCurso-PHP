@@ -1,5 +1,5 @@
 <?php
-    $pessoa = ["nome" => "Andreysson", "idade" => 23];
+    $pessoa = ["nome" => "Andreysson", "idade" => 23 , "Homem" => true];
     echo $pessoa["nome"]. "<br>";
     
     #desafio
